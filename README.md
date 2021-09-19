@@ -22,5 +22,5 @@ Louise was inspired by five plays she saw at the Edinburgh Festival Fringe and t
 
   - The successful Kickstarter campaigns have lower goals, almost doubled by the failed campaingns goals.
    
-Talking about the musical project in GB, based on our analysis, Louis must produced the play under the budget she is asking for, because half og the goals are less than $2,000
-![GB MUSICAL IQR](https://user-images.githubusercontent.com/90534703/133913493-5b32ad0e-d972-4517-b46b-42c58c3bc314.png)
+Talking about the musical project in GB, based on our analysis, Louis must produced the play under the budget she is asking for, because half oF the goals are less than $2,000
+![GB MUSICAL IQR](https://user-images.githubusercontent.com/90534703/133913889-9c7538a6-42fa-4322-8f2b-78717f47e061.png)
